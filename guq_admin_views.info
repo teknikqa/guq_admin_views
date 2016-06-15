@@ -1,0 +1,6 @@
+name = GU-Q Administration Views
+description = Replaces all system object management pages in Drupal core with real views, customized for GU-Q
+package = GUQatar
+core = 7.x
+
+dependencies[] = views
